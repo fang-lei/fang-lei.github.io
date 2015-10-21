@@ -1,2 +1,2 @@
 # fang-lei.github.io
-Github Homepage
+GitHub Homepage
